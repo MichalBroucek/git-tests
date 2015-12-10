@@ -1,1 +1,5 @@
 Just example file from master branch
+
+new change in master
+
+another new change in master
