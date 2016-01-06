@@ -2,3 +2,4 @@ Just dumy file
 
 ... Default branch (master)
 ... GENTWO-900 bugfix 1
+... GENTWO-900 commit 2
