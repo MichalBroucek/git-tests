@@ -1,3 +1,4 @@
 Just dumy file
 
 ... Default branch (master)
+... GENTWO-900 bugfix 1
