@@ -1,3 +1,3 @@
-Just dumy file
+Just example file from master branch
 
-new update ...
+... default branch (master)
